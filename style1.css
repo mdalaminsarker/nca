@@ -1,0 +1,123 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+.clear{
+	clear: both;
+}
+
+#header{
+	background: url(images/header.jpg);
+	height: 150px;
+}
+
+#header h1{
+	font-family: Arial;
+	font-size: 2em;
+	color:  #eeeeee;
+	font-weight: normal;
+	padding: 25px 20px 10px 450px;
+}
+
+
+#header h2{
+	font-family: Arial;
+	font-size: 1.7em;
+	color:  #eeeeee;
+	font-weight: lighter;
+	letter-spacing: 1px;
+	padding: 10px 10px 40px 468px;
+}
+
+#page-wrap{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.header{
+	font-family: Arial;
+	font-size: 2em;
+	font-weight: lighter;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+#core table{
+	width: 300px;
+	float: left;
+	padding-top: 20px;
+	padding-right: 10px;
+}
+
+#core h3{
+	font-family: Arial;
+	font-size: 1.5em;
+	font-weight: lighter;
+	padding-top: 40px;
+	padding-bottom: 5px;
+	padding-right: 320px;
+}
+
+#core table tr th{
+	font-family: Arial;
+	font-size: 1em;
+	font-weight: lighter;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+#core table tr td{
+	font-family: Arial;
+	font-size: 1em;
+	font-weight: lighter;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#open-elective h3{
+	font-family: Arial;
+	font-size: 1.5em;
+	font-weight: lighter;
+	padding-top: 40px;
+	padding-bottom: 5px;
+	padding-right: 320px;
+}
+
+#open-elective table{
+	width: 300px;
+	float: left;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+
+
+#open-elective table tr th{
+	font-family: Arial;
+	font-size: 1em;
+	font-weight: lighter;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+#open-elective table tr td{
+	font-family: Arial;
+	font-size: 1em;
+	font-weight: lighter;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+	
+
